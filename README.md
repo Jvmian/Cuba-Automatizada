@@ -1,4 +1,4 @@
-# Cuba Automatizado
+# Cuba Automatizada
 
 Projeto de automação touchless para uma cuba de pia, que integra sensores para controle automático de iluminação, bomba d’água e secador de mãos, com foco em higiene e eficiência.
 
@@ -33,7 +33,7 @@ Projeto de automação touchless para uma cuba de pia, que integra sensores para
 
 ## 🤝 Colaboradores
 
-- João Victor: desenvolvimento do esquema elétrico, design da placa PCB e documentação técnica  
+- João Victor: desenvolvimento do esquema elétrico, desenho básico da maquete funcional no Photoshop para orientar a montagem, design da placa PCB e documentação técnica  
 - Kaique Gagarim: montagem da maquete, posicionamento dos sensores e montagem da placa  
 
 ---
