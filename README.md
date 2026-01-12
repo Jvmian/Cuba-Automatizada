@@ -40,7 +40,7 @@ Projeto de automação touchless para uma cuba de pia, que integra sensores para
 
 ## 🔗 Link para contato
 
-Para dúvidas ou sugestões, entre em contato comigo pelo LinkedIn: [João Victor Mian Valdomiro(www.linkedin.com/in/jvmian)]
+Para dúvidas ou sugestões, entre em contato comigo pelo LinkedIn: [João Victor Mian Valdomiro](www.linkedin.com/in/jvmian)
 
 ---
 
